@@ -1,1 +1,3 @@
-Hi Git training for you guys
+Hello Git training for you guys - Git is easy
+cherry pick example
+
