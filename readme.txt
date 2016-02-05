@@ -1,1 +1,1 @@
-Hi Git training for you guys
+Hello Git training for you guys
